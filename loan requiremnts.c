@@ -16,7 +16,7 @@ int main()
   printf("enter your age:");
   scanf("%d" ,&age);
   
-  printf("enter your income:");
+  printf("enter your annual income in ksh:");
   scanf("%d" ,&income);
   
   if (age>=21 ,income>=21000)
@@ -29,4 +29,5 @@ int main()
   }
   	
   return 0;
+
 }
