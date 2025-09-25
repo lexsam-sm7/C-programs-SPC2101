@@ -7,7 +7,7 @@
   */
   
   #include <stdio.h>
-  #include<math.h>
+  
   int main()
   {
   	float principle,rate,time,compounding_years,compound_intrest,final_amount;
@@ -34,4 +34,5 @@
   	printf("your compound_intrest is ksh %.2f" ,compound_intrest);
   	
   	return 0;
+
   }
