@@ -7,8 +7,9 @@
   */
   
   #include <stdio.h>
-  
+  #iclude <math.h> 
   int main()
+  
   {
   	float principle,rate,time,compounding_years,compound_intrest,final_amount;
   	printf("input your princple:");
@@ -36,3 +37,4 @@
   	return 0;
 
   }
+
