@@ -1,6 +1,6 @@
 /*
-Name: Valentine Wanja Patrick 
-Reg no: CT101/G/26458/25
+Name: Sammy Mwangi 
+Reg no: CT101/G/26462/25
 Description: ATM withdrawals 
 */
 
@@ -44,4 +44,5 @@ printf("\n Balance is zero.No more further withdrawal possible. Thank you.\n");
 
 	return 0;
 }
+
 		
