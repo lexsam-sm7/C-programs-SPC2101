@@ -1,6 +1,6 @@
 /*
-Name: Valentine Wanja Patrick 
-Reg no: CT101/G/26498/25
+Name: Sammy Mwangi
+Reg no: CT101/G/26462/25
 Description: Password  systems
 */
 
@@ -29,4 +29,5 @@ printf("Welcome.");
 
 	return 0;
 }
+
 		
